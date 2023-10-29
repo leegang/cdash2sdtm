@@ -1,12 +1,12 @@
 <template>
   <div id="app">
     <nav>
-      <!-- <router-link to="/config">Config</router-link> |
+      <router-link to="/config">Config</router-link> |
       <router-link to="/confirmDomain">confirmDomain</router-link> |
-      <router-link to="/varSetting">VarSetting</router-link> | -->
-      <!-- <router-link to="/mainView">MainView</router-link> -->
+      <router-link to="/varSetting">VarSetting</router-link> | 
+      <router-link to="/mainView">MainView</router-link> 
     </nav>
-    <router-view />
+    <!---<router-view /> -->
 
   </div>
 </template>
